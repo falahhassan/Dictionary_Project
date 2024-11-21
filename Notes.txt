@@ -1,0 +1,7 @@
+This my note for the Program :
+
+first adding history list(pass)
+change history list to dictionary(pass)
+save history list to file
+history list should count word search for existing word
+adding gui with new window for history with count
